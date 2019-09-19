@@ -1,0 +1,1 @@
+As an end user, I would like the table to be sortable. I added a feature that makes the columns sortable when a user clicks on the header. This feature is only applicable for columns Issue Number, Created At, Updated At, and State. I did not think it was useful to sort the title and label columns.
